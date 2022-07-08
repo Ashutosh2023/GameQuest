@@ -1,0 +1,78 @@
+/* .navbar{
+    height: 130px;
+}
+
+.navbar-b{
+    font-size: 60px;
+    font-family: 'Splash', cursive;
+    text-decoration: none;
+}
+.container-fluid{
+    padding: 20px;
+} */
+/* .dropdown{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+} */
+/* 
+.dropdown{
+    color: white;
+    font-family: 'Finlandica', sans-serif;
+    font-size: 30px;
+    margin:25px 80px 25px 0; //comment this
+} */
+.name{
+    font-size: 60px !important;
+    font-family: 'Splash', cursive;
+}
+.navbar-collapse{
+    justify-content: right;
+    margin-right: 30px;
+    
+}
+.nav-link{
+    font-size: 25px !important;
+}
+
+
+
+
+.container{
+    margin-top: 4rem;
+}
+.card{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding:20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* margin:0 50px; */
+}
+.card-text{
+    margin: 25px 25px;
+}
+.gameimg{
+    width:80%
+}
+
+.mr{
+    margin-right: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .mr{
+        margin-bottom: 50px;
+        margin-right:  auto;
+    }
+
+    .navbar-b{
+        font-size: 40px;
+    }
+
+    .dropdown{
+        font-size: 20px;
+    }
+  }
+
